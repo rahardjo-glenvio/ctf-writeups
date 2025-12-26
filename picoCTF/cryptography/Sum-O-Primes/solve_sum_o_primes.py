@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-"""
-Sum-O-Primes Solver
-PicoCTF - Cryptography Challenge
-
-Given: x = p + q, n = p * q
-Attack: Solve quadratic equation to factor n
-"""
-
 import math
 
 def long_to_bytes(n):
